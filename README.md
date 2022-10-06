@@ -4,5 +4,5 @@ A mesma conta com endpoint GET para buscar todos lançamentos ou lançamento por
 A mesma usa o framework Hibernate para persist~encia de dados em banco de dados SQL SERVER.
 No projeto da API, existe um arquivo CreateDatabase.sql na pasta DB Scripts, que é a script para criação do banco de dados, tabela e inserção de registros exemplso nessa tabela.
 Para a api conectar no banco é só alterar a string de conexão que está no arquivo Repositorio.cs da pasta Repository.
-A solução também suporta Swagger auxiliar na descrição, consumo e visualização de serviços de API REST.
+A solução também suporta Swagger para auxiliar na descrição, consumo e visualização de serviços de API REST.
 A solução contém um projeto de teste unitários usando a biblioteca xUnit.
