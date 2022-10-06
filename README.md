@@ -6,3 +6,4 @@ No projeto da API, existe um arquivo CreateDatabase.sql na pasta DB Scripts, que
 Para a api conectar no banco é só alterar a string de conexão que está no arquivo Repositorio.cs da pasta Repository.
 A solução também suporta Swagger para auxiliar na descrição, consumo e visualização de serviços de API REST.
 A solução contém um projeto de teste unitários usando a biblioteca xUnit.
+Para rodar a API, primeiro rode o arquivo de escript no banco de dados, altere a string de conexão e execute o projeto no VS Studio.
